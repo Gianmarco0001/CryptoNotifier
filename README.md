@@ -28,7 +28,7 @@ This application provides only general advice and does not take into account the
 
 # Credits
 
-CryptoNotifier uses the CoinMarketCap API to fetch the latest price and percentage change.
+CryptoNotifier uses the [CoinMarketCap](https://coinmarketcap.com/) API to fetch the latest price and percentage change.
 
 # License
 
