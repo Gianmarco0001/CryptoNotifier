@@ -8,13 +8,13 @@ To use CryptoNotifier, you need to have Python 3 installed on your system. You c
 
 Next, install the required dependencies by running the following command in your terminal:
 
-`pip install pyqt5 requests`
+`python3 -m pip install pyqt5 requests`
 
 # Usage
 
 To launch CryptoNotifier, navigate to the project directory and run the following command in your terminal:
 
-`python CryptoNotifier.py`
+`python3 CryptoNotifier.py`
 
 Once the application is launched, enter the currency symbol of the cryptocurrency you want to monitor (e.g. BTC, XMR, ETH) and click the "Invia" button to get the latest price and recommendation. The application uses CoinMarketCap API to fetch the latest price and percentage change.
 
