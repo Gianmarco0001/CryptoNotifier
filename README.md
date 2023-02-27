@@ -2,7 +2,7 @@
 
 CryptoNotifier is a simple desktop application built with PyQt5 that allows users to get the latest price of cryptocurrencies and a recommendation based on the percentage change in the last 24 hours. 
 
-! Please note that the program shows only values in euros and is currently available only in Italian.
+! The software is currently available only in Italian language.
 
 # Installation
 
@@ -18,14 +18,18 @@ To launch CryptoNotifier, navigate to the project directory and run the followin
 
 `python3 CryptoNotifier.py`
 
-Once the application is launched, enter the currency symbol of the cryptocurrency you want to monitor (e.g. BTC, XMR, ETH) and click the "Invia" button to get the latest price and recommendation. The application uses CoinMarketCap API to fetch the latest price and percentage change.
+Once the application starts, enter the symbol of the cryptocurrency you want to observe (e.g., BTC, XMR, ETH) in the input box, select the fiat currency you want to convert to, and click the "Invia" button. The application will display the latest price of the cryptocurrency in the selected fiat currency and a recommendation on whether to buy or not based on the price change in the last 24 hours.
 
 You can also enter your API Token to get 333 requests per day and 10.000 per month. To do this, register on the CoinMarketCap website. It's free!
 
 # Disclaimer
 
-CryptoNotifier provides only a general recommendation and does not take into account your personal circumstances. Please conduct your own research and evaluation before making any investment decision.
+This application provides only general advice and does not take into account the user's personal circumstances. Please do your own research before making any investment decisions.
 
 # Credits
 
 CryptoNotifier uses the CoinMarketCap API to fetch the latest price and percentage change.
+
+# License
+
+This project is licensed under the MIT License.
