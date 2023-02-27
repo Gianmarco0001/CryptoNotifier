@@ -1,6 +1,8 @@
 # CryptoNotifier
 
-CryptoNotifier is a simple desktop application built with PyQt5 that allows users to get the latest price of cryptocurrencies and a recommendation based on the percentage change in the last 24 hours. Please note that the program shows only values in euros and is currently available only in Italian.
+CryptoNotifier is a simple desktop application built with PyQt5 that allows users to get the latest price of cryptocurrencies and a recommendation based on the percentage change in the last 24 hours. 
+
+! Please note that the program shows only values in euros and is currently available only in Italian.
 
 # Installation
 
