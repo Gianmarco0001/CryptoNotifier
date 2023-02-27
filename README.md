@@ -18,6 +18,8 @@ To launch CryptoNotifier, navigate to the project directory and run the followin
 
 Once the application is launched, enter the currency symbol of the cryptocurrency you want to monitor (e.g. BTC, XMR, ETH) and click the "Invia" button to get the latest price and recommendation. The application uses CoinMarketCap API to fetch the latest price and percentage change.
 
+You can also enter your API Token to get 333 requests per day and 10.000 per month. To do this, register on the CoinMarketCap website. It's free!
+
 # Disclaimer
 
 CryptoNotifier provides only a general recommendation and does not take into account your personal circumstances. Please conduct your own research and evaluation before making any investment decision.
