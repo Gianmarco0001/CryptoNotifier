@@ -16,7 +16,7 @@ Next, install the required dependencies by running the following command in your
 
 To launch CryptoNotifier, navigate to the project directory and run the following command in your terminal:
 
-`python3 CryptoNotifier.py`
+`python3 CryptoNotifier.py` or `py CryptoNotifier.py`
 
 Once the application starts, enter the symbol of the cryptocurrency you want to observe (e.g., BTC, XMR, ETH) in the input box, select the fiat currency you want to convert to, and click the "Invia" button. The application will display the latest price of the cryptocurrency in the selected fiat currency and a recommendation on whether to buy or not based on the price change in the last 24 hours.
 
