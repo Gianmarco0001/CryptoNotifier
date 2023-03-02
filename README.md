@@ -10,7 +10,7 @@ To use CryptoNotifier, you need to have Python 3 installed on your system. You c
 
 Next, install the required dependencies by running the following command in your terminal:
 
-`python3 -m pip install pyqt5 requests`
+`python3 -m pip install pyqt5 requests` or `pip install pyqt5 requests`
 
 # Usage
 
