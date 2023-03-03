@@ -140,3 +140,4 @@ if __name__ == '__main__':
     window = CryptoNotifier()
     window.show()
     sys.exit(app.exec_())
+# Coded by Gianmarco Benedetti with ❤️
